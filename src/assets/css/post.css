@@ -1,2 +1,24 @@
-@import "header.css";
-@import "footer.css";
+.row .author {
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	margin-left: 20px;
+}
+
+.row .author img {
+	display:grid;
+	width: 60px;
+	height: 60px;
+}
+
+.row h3 {
+	font-size: 30px;
+	color:rgb(72, 130, 255);
+	margin: 20px;
+}
+
+.row .author p {
+	font-size: 13px;
+	margin-left: 10px;
+	margin-right: 20px;
+}
