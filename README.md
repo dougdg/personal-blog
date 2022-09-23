@@ -1,2 +1,2 @@
 # personal-blog
-My personal blog website project for Udacity, using HTML and CSS
+My personal blog website project for Udacity, using only HTML and CSS.

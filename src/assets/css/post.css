@@ -15,10 +15,12 @@
 	font-size: 30px;
 	color:rgb(72, 130, 255);
 	margin: 20px;
+	font-family: 'Comic Sans MS', sans-serif;
 }
 
 .row .author p {
 	font-size: 13px;
 	margin-left: 10px;
 	margin-right: 20px;
+	font-family: 'Arial', sans-serif;
 }
