@@ -1,0 +1,29 @@
+@import "header.css";
+@import "footer.css";
+@import "home.css";
+@import "aboutme.css";
+@import "post.css";
+
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Verdana', sans-serif;
+	text-decoration: none;
+}
+
+/* body {
+	margin: 0;
+	max-width: 1920px;
+	width: 100%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+} */
+
+h1, h2, h3, h4, h5, p, span {
+	margin: 0;
+	color: #555;
+}
+
+

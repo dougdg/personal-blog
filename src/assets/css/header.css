@@ -1,0 +1,48 @@
+header {
+	background-color: rgb(231, 231, 231);
+	border-bottom: 1px solid #CCC;
+}
+
+.navbar {
+	position: relative;
+	height: 60px; /* 100px */
+	width: 100%;
+	max-width: 1900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar .logo {
+	text-decoration: none;
+	font-size: 18px;
+	float: left;
+	width: 25px;
+	height: 60px;
+	margin: 40px;
+	margin-top: 7px;
+	color: rgb(58, 107, 214)
+}
+
+.navbar ul {
+	float: right;
+	height: 60px;
+	line-height: 60px;
+	margin-right: 20px;
+}
+
+.navbar ul li {
+	list-style: none;
+	float: left;
+	margin: 0 15px;
+}
+
+.navbar li a {
+	text-decoration: none;
+	color: #555;
+}
+
+@media screen and (max-width: 768px) {
+	.header {
+		flex-direction: column;
+	}
+}
